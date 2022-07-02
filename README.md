@@ -2,7 +2,7 @@
 Esse projeto foi 'criado' para pessoas que cansaram do discord, mas aqui é o concord, para publico com a idade acima de 12 anos de idade, objetivo do projeto
 projeto: comunicação entre amigos, linguaguem: Kotlin,a descrição do código.
 
-![image](https://user-images.githubusercontent.com/108557012/176978430-e829c3c4-a910-4008-88aa-167b0415a76d.png)
+![image](https://user-images.githubusercontent.com/108557012/176979285-e1f7dce6-3cd4-4f86-afac-a3b15402531e.png)
 ![image](https://user-images.githubusercontent.com/108557012/176979249-ea78eee2-ce90-4ba9-b983-17f716e72936.png)
 
 
