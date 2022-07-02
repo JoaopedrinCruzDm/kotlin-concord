@@ -4,6 +4,8 @@ projeto: comunicação entre amigos, linguaguem: Kotlin,a descrição do código
 
 ![image](https://user-images.githubusercontent.com/108557012/176979285-e1f7dce6-3cd4-4f86-afac-a3b15402531e.png)
 ![image](https://user-images.githubusercontent.com/108557012/176979249-ea78eee2-ce90-4ba9-b983-17f716e72936.png)
+![image](https://user-images.githubusercontent.com/108557012/176979397-356725c0-2c80-4b2d-9310-43c39d99c83a.png)
+
 ![image](https://user-images.githubusercontent.com/108557012/176979337-f67cca82-43f2-4b1c-92ed-d67c0a530f82.png)
 
 
