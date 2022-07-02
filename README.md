@@ -1,10 +1,12 @@
 # kotlin-concord
 Esse projeto foi 'criado' para pessoas que cansaram do discord, mas aqui é o concord, para publico com a idade acima de 12 anos de idade, objetivo do projeto
 projeto: comunicação entre amigos, linguaguem: Kotlin,a descrição do código.
- código: esse código é um 'aperfeiçoamento' do discord.
-layout: esse layout foi feito com memes e com o objetivo de ser um app de comunicação,funcionalidades: funcionará para comunicações entre pessoas que estão distantes e não conseguem falar pessoalmente, e por isso o app tem o objetivo de faciliar a comunicação das pessoas :)
 
 ![image](https://user-images.githubusercontent.com/108557012/176978430-e829c3c4-a910-4008-88aa-167b0415a76d.png)
+
+código: esse código é um 'aperfeiçoamento' do discord.
+layout: esse layout foi feito com memes e com o objetivo de ser um app de comunicação,funcionalidades: funcionará para comunicações entre pessoas que estão distantes e não conseguem falar pessoalmente, e por isso o app tem o objetivo de faciliar a comunicação das pessoas :)
+
 ![face3](https://user-images.githubusercontent.com/108557012/176978934-68b70c83-7322-4dc5-b3ab-0038be78cddc.png)
 ![concord](https://user-images.githubusercontent.com/108557012/176978942-0c049b1a-c869-47bf-b630-be706d4c3cbf.png)
 
