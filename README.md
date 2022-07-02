@@ -95,3 +95,11 @@ fun main(){
 
    
 }
+
+
+REGRAS DE NEGÓCIO
+fazer a comunicações entre mensagens
+um aplicativo facil de usar
+
+
+
