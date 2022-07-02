@@ -3,6 +3,8 @@ Esse projeto foi 'criado' para pessoas que cansaram do discord, mas aqui é o co
 projeto: comunicação entre amigos, linguaguem: Kotlin,a descrição do código.
 
 ![image](https://user-images.githubusercontent.com/108557012/176978430-e829c3c4-a910-4008-88aa-167b0415a76d.png)
+![image](https://user-images.githubusercontent.com/108557012/176979209-f96db672-a128-41b1-a38e-51f18a25fb92.png)
+
 
 código: esse código é um 'aperfeiçoamento' do discord.
 layout: esse layout foi feito com memes e com o objetivo de ser um app de comunicação,funcionalidades: funcionará para comunicações entre pessoas que estão distantes e não conseguem falar pessoalmente, e por isso o app tem o objetivo de faciliar a comunicação das pessoas :)
